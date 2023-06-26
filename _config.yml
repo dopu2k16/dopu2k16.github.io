@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "AI@Mitodru"
+title                    : "Let's dive into AI with Mitodru"
 title_separator          : "-"
 name                     : &name "Mitodru Niyogi"
 description              : &description "Machine Learning Engineer | MS (ML, NLP) at Heidelberg University, Germany"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mitodru"
-  avatar           : "mitodru.png"
-  bio              : "Machine Learning Engineer | MS (ML, NLP) at Heidelberg University, Germany| Former Data Scientist/SDE at SAP SE| Former Research Scholar at IIT Kanpur"
+  name             : "Mitodru Niyogi"
+  avatar           : "me.jpeg"
+  bio              : "Machine Learning Engineer | MS (ML, NLP) at Heidelberg University, Germany | Former Data Scientist/SDE at SAP SE | Former Research Scholar at IIT Kanpur"
   location         : "Heidelberg, Germany"
   employer         :
   pubmed           :
