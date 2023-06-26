@@ -3,7 +3,7 @@ title: "IR-IITBHU at TREC 2016 Open Search Track: Retrieving documents using Div
 From Randomness model in Terrier"
 collection: publications
 permalink: /publication/2017-02-16-trec
-excerpt: ''
+excerpt: 'TREc 2016 Open Search Track'
 date: 2017-02-16
 venue: 'The Twenty-Fifth Text REtrieval Conference (TREC 2016) Proceedings. NIST Special Publication:SP 500-321'
 paperurl: 'https://trec.nist.gov/pubs/trec25/papers/IR-IITBHU-O.pdf'
