@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "নমস্কার (Namaskar), Namaste, Hello, Hallo"
+title: "নমস্কার (Namaskar), नमस्कार (Namaste), Hello, Hallo! I am Polyglot."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-# নমস্কার (Namaskar), नमस्कार (Namaste), Hello, Hallo!
-### I am Polyglot!
 
 About Me
 ======
