@@ -2,7 +2,7 @@
 title: "Learning Multilingual Embeddings for Cross-Lingual Information Retrieval in
 the Presence of Topically Aligned Corpora"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2018-04-12-paper-arXiv
 excerpt: 
 date: 2018-04-12
 venue: 'arXiv preprint arXiv:1804.04475v1'
