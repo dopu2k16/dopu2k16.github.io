@@ -4,12 +4,9 @@ collection: talks
 type: "Talk"
 permalink: /talks/2019-12-07-math-seminar
 venue: "Faculty of Mathematics and Computer Science, Heidelberg University"
-date: 2012-03-01
+date: 2019-12-07
 location: "Heidelberg, Germany"
 ---
-
-Special Topics in Continuous Optimization and Optimal Control: Local and Global convergence of Newton methods
-======
 
 In this seminar talk, we discussed the local and global convergence of Newton Methods topics which are under as follows:
 
@@ -25,4 +22,7 @@ In this seminar talk, we discussed the local and global convergence of Newton Me
     * Global Convergence Results for Quasi-Newton Method (A Subclass of Oren-Luenberger)
  * Conclusions for Local- and Global- Properties of Newton Methods
 
-<iframe src='https://view.officeapps.live.com/op/embed.aspx?src=[https://dopu2k16.github.io/files/math-seminar-ppt.pdf]' width='100%' height='600px' frameborder='0'></iframe>
+<object data="https://dopu2k16.github.io/files/math-seminar-ppt.pdf" width="1000" height="1000" type='application/pdf'></object>
+
+<iframe src='https://dopu2k16.github.io/files/math-seminar-ppt.pdf' width='100%' height='600px' frameborder='0'></iframe>
+
