@@ -24,5 +24,3 @@ In this seminar talk, we discussed the local and global convergence of Newton Me
 
 <object data="https://dopu2k16.github.io/files/math-seminar-ppt.pdf" width="1000" height="1000" type='application/pdf'></object>
 
-<iframe src='https://dopu2k16.github.io/files/math-seminar-ppt.pdf' width='100%' height='600px' frameborder='0'></iframe>
-
