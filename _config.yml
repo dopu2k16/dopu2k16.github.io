@@ -146,6 +146,9 @@ exclude:
   - package.json
   - tmp
   - vendor
+  - _teaching
+  - _portfolio
+  - _pages/portfolio.html
 keep_files:
   - .git
   - .svn
@@ -179,6 +182,9 @@ collections:
     output: true
     permalink: /:collection/:path/
   publications:
+    output: true
+    permalink: /:collection/:path/
+  portfolio:
     output: true
     permalink: /:collection/:path/
   talks:
