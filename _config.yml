@@ -152,6 +152,7 @@ exclude:
   - _pages/markdown.md
   - _pages/portfolio.html
   - _pages/category-archive.html
+  - _pages/year-archive.html
 keep_files:
   - .git
   - .svn
