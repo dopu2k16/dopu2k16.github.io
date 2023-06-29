@@ -32,7 +32,6 @@ learning opportunities.
 Education
 ======
 * **Master of Science in Scientific Computing, University of Heidelberg, Germany, 2021**
-* **Bachelor of Technology in Information Technology, Calcutta, 2017**
 
 
 Work Experience
