@@ -1,6 +1,5 @@
 ---
-title: "Review of Deep Recurrent Neural Networks for Prostate Cancer Detection: Analysis of Temporal
-Enhanced Ultrasound (Shekoofeh Aziz et al.)"
+title: "Review of Deep Recurrent Neural Networks for Prostate Cancer Detection: Analysis of Temporal Enhanced Ultrasound (Shekoofeh Aziz et al.)"
 collection: talks
 type: "Talk"
 permalink: /talks/2020-06-25-bio-image-seminar
