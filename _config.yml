@@ -146,7 +146,7 @@ exclude:
   - package.json
   - tmp
   - vendor
-  - _teaching
+  - _tutorial
   - _projects
   - _posts
   - _pages/markdown.md
@@ -182,7 +182,7 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  tutorial:
     output: true
     permalink: /:collection/:path/
   publications:
@@ -216,10 +216,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _tutorial
   - scope:
       path: ""
-      type: teaching
+      type: tutorial
     values:
       layout: single
       author_profile: true
