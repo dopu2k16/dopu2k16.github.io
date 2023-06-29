@@ -101,5 +101,3 @@ and DevOps (Kubernetes, GCP, Docker, Jenkins CI/CD).
 3. Cross collaboration in agile teams with stakeholders and acted as a bridge and managed a smooth workflow between
 research and engineering teams, and ability to organise KT sessions on machine learning and software engineering
 principles across the company.
-
-![Visitor Count](https://profile-counter.glitch.me/{dopu2k16}/count.svg)
