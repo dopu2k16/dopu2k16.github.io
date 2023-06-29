@@ -148,6 +148,8 @@ exclude:
   - vendor
   - _teaching
   - _portfolio
+  - _posts
+  - _pages/markdown.md
   - _pages/portfolio.html
 keep_files:
   - .git
