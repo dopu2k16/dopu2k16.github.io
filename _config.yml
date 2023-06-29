@@ -151,6 +151,7 @@ exclude:
   - _posts
   - _pages/markdown.md
   - _pages/portfolio.html
+  - _pages/category-archive.html
 keep_files:
   - .git
   - .svn
