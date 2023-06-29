@@ -37,7 +37,7 @@ Education
 
 Work Experience
 ======
-* **Machine Learning Engineer, April 2022 - Dec 2022**
+* **Machine Learning Engineer, April 2022 - Present**
   * **GFK SE, Nuremberg**
   * Deployed a monitoring and alerting system for gfkNewron with Grafana dashboard, custom metrics recording in Prometheus,
   and Slack integration and email notifications to achieve better microservice monitoring, data consistency, and KPI tracking.
