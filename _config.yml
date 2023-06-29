@@ -147,10 +147,10 @@ exclude:
   - tmp
   - vendor
   - _teaching
-  - _portfolio
+  - _projects
   - _posts
   - _pages/markdown.md
-  - _pages/portfolio.html
+  - _pages/projects.html
   - _pages/category-archive.html
   - _pages/year-archive.html
 keep_files:
@@ -234,7 +234,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _projects
   - scope:
       path: ""
       type: portfolio
