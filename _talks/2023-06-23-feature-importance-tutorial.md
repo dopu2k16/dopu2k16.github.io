@@ -2,7 +2,7 @@
 title: "Tutorial on Feature Importance"
 collection: talks
 type: "Talk"
-permalink: /talks/2023-06-23-feature-importance-tutorial.md
+permalink: /talks/2023-06-23-feature-importance-tutorial
 venue: "Turo, Paris"
 date: 2023-06-23
 location: "Paris, France"
