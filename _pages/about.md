@@ -23,7 +23,7 @@ at SAP as Data Scientist & Developer in Walldorf, Germany since June 2019 where 
 development (Python, Node.js, Jenkins CI/CD, Kubernetes, Docker, SonarQube)and delivering end-to-end ML (Pandas, Numpy,
 Seaborn, Tensorflow) PoC to customers for commodity code prediction, master data record categorisation, and automatic
 labelling of web documents using doc2vec and clustering. Prior to coming to Germany, 
-I worked as Research Engineer at IIT Kanpur in India for 1 year.
+I worked as Research Scholar at IIT Kanpur in India for 1 year.
 
 Being industrious, determined, smart and passionate, I am always excited to take on new challenges and pursue new
 learning opportunities.
