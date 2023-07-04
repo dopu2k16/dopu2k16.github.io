@@ -12,12 +12,11 @@ redirect_from:
 Education
 ======
 * **Master of Science in Scientific Computing, University of Heidelberg, Germany, 2021**
-* **Bachelor of Technology in Information Technology, Calcutta, 2017**
 
 
 Work Experience
 ======
-* **Machine Learning Engineer, April 2022 - Dec 2022**
+* **Machine Learning Engineer, April 2022 - Present**
   * **GFK SE, Nuremberg**
   * Deployed a monitoring and alerting system for gfkNewron with Grafana dashboard, custom metrics recording in Prometheus,
   and Slack integration and email notifications to achieve better microservice monitoring, data consistency, and KPI tracking.
